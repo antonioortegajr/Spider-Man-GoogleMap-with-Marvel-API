@@ -7,6 +7,10 @@ The map is build in javascript and html and based on the Google Maps docs https:
 
 All points have been chosen by me.
 
+Currently in thte process of chosing the kinds of data that would be standard on any given point.
+
+The points are all locations where an event occured or many events occured to influence the life of Spider-Man
+
 The Marvel API will be used to provide data such as issue cover images, location data, etc..
 
 http://developer.marvel.com/docs
