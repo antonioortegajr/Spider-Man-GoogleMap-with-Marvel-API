@@ -5,7 +5,7 @@ This google map is a map of what I have chosen as important locations in the Spi
 
 The map is build in javascript and html and based on the Google Maps docs https://developers.google.com/maps/documentation/javascript/
 
-All points have been chosen by me.
+All points have been chosen by me. See this git hub wiki for any reasons I chose a location or if you would like to suggest a new point be added.
 
 Currently in thte process of chosing the kinds of data that would be standard on any given point.
 
